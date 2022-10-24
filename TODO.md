@@ -6,16 +6,14 @@ Project Description
 
 ### Todo
 
-- [ ] Add ESLint + Prettier  
-- [ ] Add SSR using Express  
-- [ ] Add form manager  
-- [ ] Create app main screen  
+- [ ] Add SSR using Express
+- [ ] Add form manager
+- [ ] Create app main screen
 
 ### In Progress
 
-
 ### Done ✓
 
-- [x] Add css modules  
-- [x] Add material ui  
-
+- [x] Add css modules
+- [x] Add material ui
+- [x] Add ESLint + Prettier
